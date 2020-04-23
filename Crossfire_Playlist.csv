@@ -1,0 +1,51 @@
+Name,Composer,Link
+Stephen - Crossfire,MrSuicideSheep,https://www.youtube.com/watch?v=eH4F1Tdb040&list=RDeH4F1Tdb040&index=1
+Two Feet - Go F*ck Yourself,Trap Nation,https://www.youtube.com/watch?v=T7K0pZ9tGi4&list=RDeH4F1Tdb040&index=2
+Two Feet - I Feel Like I'm Drowning (Official Lyric Video),TwoFeet,https://www.youtube.com/watch?v=0HLIMp2rkFc&list=RDeH4F1Tdb040&index=3
+Alan Walker - Unity (Extended Version) by Albert Vishi,Albert Vishi,https://www.youtube.com/watch?v=b3Mm4wHMtjQ&list=RDeH4F1Tdb040&index=4
+Hippie Sabotage - Devil Eyes (EXTENDED REMIX),Andy,https://www.youtube.com/watch?v=IcAHDW1Rt8A&list=RDeH4F1Tdb040&index=5
+Stephen - Play Me Like A Violin,CloudKid,https://www.youtube.com/watch?v=pg99D2_qoUo&list=RDeH4F1Tdb040&index=6
+Two Feet - Lost The Game (Lyric Video),TwoFeet,https://www.youtube.com/watch?v=mRyv_oe9-Ys&list=RDeH4F1Tdb040&index=7
+The Chainsmokers - Don't Let Me Down (Illenium Remix),Trap Nation,https://www.youtube.com/watch?v=s8XIgR5OGJc&list=RDeH4F1Tdb040&index=8
+Mikebøi - Missed,Trap Nation,https://www.youtube.com/watch?v=gsvKF2ojUzs&list=RDeH4F1Tdb040&index=9
+Alan Walker - Faded (Reworks),Hidden Book,https://www.youtube.com/watch?v=avytvFalI6o&list=RDeH4F1Tdb040&index=10
+Axel Thesleff - Bad Karma,Trap Nation,https://www.youtube.com/watch?v=knfrxj0T5NY&list=RDeH4F1Tdb040&index=11
+Trevor Daniel - Falling (Official Music Video),Trevor Daniel,https://www.youtube.com/watch?v=L7mfjvdnPno&list=RDeH4F1Tdb040&index=12
+Imagine Dragons - Radioactive,ImagineDragons,https://www.youtube.com/watch?v=ktvTqknDobU&list=RDeH4F1Tdb040&index=13
+Sub Urban - Cradles [OFFICIAL MUSIC VIDEO],Sub Urban,https://www.youtube.com/watch?v=KBtk5FUeJbk&list=RDeH4F1Tdb040&index=14
+Illenium - Needed You (ft. Dia Frampton),Trap Nation,https://www.youtube.com/watch?v=bvltaWCxFl0&list=RDeH4F1Tdb040&index=15
+Sickick - Infected (Barren Gates Remix),Trap Nation,https://www.youtube.com/watch?v=mRUFzTL9ZOk&list=RDeH4F1Tdb040&index=16
+ZAYN - Dusk Till Dawn ft. Sia (Official Music Video),zayn,https://www.youtube.com/watch?v=tt2k8PGm-TI&list=RDeH4F1Tdb040&index=17
+"RISE (ft. The Glitch Mob, Mako, and The Word Alive) | Worlds 2018 - League of Legends",League of Legends,https://www.youtube.com/watch?v=fB8TyLTD7EE&list=RDeH4F1Tdb040&index=18
+OneRepublic - Counting Stars (Official Music Video),OneRepublic,https://www.youtube.com/watch?v=hT_nvWreIhg&list=RDeH4F1Tdb040&index=19
+Legends Never Die (ft. Against The Current) | Worlds 2017 - League of Legends,League of Legends,https://www.youtube.com/watch?v=r6zIGXun57U&list=RDeH4F1Tdb040&index=20
+Lemaitre - Closer (feat. Jennie A.),Trap Nation,https://www.youtube.com/watch?v=dSYu8FLVr_Y&list=RDeH4F1Tdb040&index=21
+Lauv - I Like Me Better [Official Video],Lauv,https://www.youtube.com/watch?v=BcqxLCWn-CE&list=RDeH4F1Tdb040&index=22
+Blackbear - Idfc (Tarro Remix),Chill Nation,https://www.youtube.com/watch?v=gxE4ngu78Ro&list=RDeH4F1Tdb040&index=23
+Imagine Dragons - Believer,ImagineDragons,https://www.youtube.com/watch?v=7wtfhZwyrcc&list=RDeH4F1Tdb040&index=24
+AViVA - Blame It On The Kids,MrSuicideSheep,https://www.youtube.com/watch?v=Z9lKN_X152Q&list=RDeH4F1Tdb040&index=25
+Stephen - Crossfire,MrSuicideSheep,'https://www.youtube.com'+c.get('href')
+Two Feet - Go F*ck Yourself,Trap Nation,'https://www.youtube.com'+c.get('href')
+Two Feet - I Feel Like I'm Drowning (Official Lyric Video),TwoFeet,'https://www.youtube.com'+c.get('href')
+Alan Walker - Unity (Extended Version) by Albert Vishi,Albert Vishi,'https://www.youtube.com'+c.get('href')
+Hippie Sabotage - Devil Eyes (EXTENDED REMIX),Andy,'https://www.youtube.com'+c.get('href')
+Stephen - Play Me Like A Violin,CloudKid,'https://www.youtube.com'+c.get('href')
+Two Feet - Lost The Game (Lyric Video),TwoFeet,'https://www.youtube.com'+c.get('href')
+The Chainsmokers - Don't Let Me Down (Illenium Remix),Trap Nation,'https://www.youtube.com'+c.get('href')
+Mikebøi - Missed,Trap Nation,'https://www.youtube.com'+c.get('href')
+Alan Walker - Faded (Reworks),Hidden Book,'https://www.youtube.com'+c.get('href')
+Axel Thesleff - Bad Karma,Trap Nation,'https://www.youtube.com'+c.get('href')
+Trevor Daniel - Falling (Official Music Video),Trevor Daniel,'https://www.youtube.com'+c.get('href')
+Imagine Dragons - Radioactive,ImagineDragons,'https://www.youtube.com'+c.get('href')
+Sub Urban - Cradles [OFFICIAL MUSIC VIDEO],Sub Urban,'https://www.youtube.com'+c.get('href')
+Illenium - Needed You (ft. Dia Frampton),Trap Nation,'https://www.youtube.com'+c.get('href')
+Sickick - Infected (Barren Gates Remix),Trap Nation,'https://www.youtube.com'+c.get('href')
+ZAYN - Dusk Till Dawn ft. Sia (Official Music Video),zayn,'https://www.youtube.com'+c.get('href')
+"RISE (ft. The Glitch Mob, Mako, and The Word Alive) | Worlds 2018 - League of Legends",League of Legends,'https://www.youtube.com'+c.get('href')
+OneRepublic - Counting Stars (Official Music Video),OneRepublic,'https://www.youtube.com'+c.get('href')
+Legends Never Die (ft. Against The Current) | Worlds 2017 - League of Legends,League of Legends,'https://www.youtube.com'+c.get('href')
+Lemaitre - Closer (feat. Jennie A.),Trap Nation,'https://www.youtube.com'+c.get('href')
+Lauv - I Like Me Better [Official Video],Lauv,'https://www.youtube.com'+c.get('href')
+Blackbear - Idfc (Tarro Remix),Chill Nation,'https://www.youtube.com'+c.get('href')
+Imagine Dragons - Believer,ImagineDragons,'https://www.youtube.com'+c.get('href')
+AViVA - Blame It On The Kids,MrSuicideSheep,'https://www.youtube.com'+c.get('href')
